@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    border: red dashed 5px;
+    padding: 25px;
+    text-align: center;
+    margin: 30px 0;
+}
+
+#cifrao {
+    color: green;
+}
+
+
+footer{
+    background-color: #555555;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.produto-item{
+    color:  #b60808;
+    font-weight: bold;
+}
+
+.nome-produto{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+#btn-quantidade{
+    transition: 0.3s;
+}
+#btn-quantidade:hover{
+    cursor: pointer;
+    font-size: 13px;
+}
